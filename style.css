@@ -1,0 +1,27 @@
+p {
+font-size: 18px;
+text-align: center;
+}
+
+h1 {
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+li { 
+    list-style: none;
+    display: inline-block;
+    border: 3px dashed #030708;
+}
+
+section {
+ font-size: 20px;
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+.block {
+text-align: center;
+
+}
+
